@@ -9,7 +9,7 @@ public class UserController
 	@GetMapping("/")
 	public String getData()
 	{
-		return "Hello Welcome to thr World-----!"; 
+		return "Hello Welcome to the Sachin World-----!"; 
 		
 	}
 
